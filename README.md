@@ -1,4 +1,5 @@
 # csas_2025_data_challenge
+One will need access to the data, but otherwise this code runs in the same working directory as the data. Outputs happen as the code is run.
 # Question1Analysis.R: 
 Data Cleaning and Analysis of: Do stable or volatile swing metrics for a single batter over a season correlate with that batter’s offensive success, measured through wOBA or xwOBA?
 # Question2Analysis.R:
